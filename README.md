@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Chaubey
 - 👀 I’m interested in building technology
-- 🌱 I’m currently learning next js a powerful React framework, Blockchain development on ethereum using thirdweb, solidity.
-- 💞️ I’m looking to collaborate on React based projects or more commonly a javascript project using node , react, next js etc...
+- 🌱
+- 💞️ I’m looking to collaborate on React based projects or more commonly a javascript project using node , react, etc...
 - 📫 How to reach me >> You can always send me a DM via my instagram (https://www.instagram.com/aaaman_cha/) or facebook (https://www.facebook.com/aman.chaubey.3597789)
 
 <!---
